@@ -1,2 +1,2 @@
-# Mlops Project
+# ML Project
  

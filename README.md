@@ -134,12 +134,6 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Contact
 
 For any questions or feedback, feel free to reach out:
@@ -150,11 +144,3 @@ For any questions or feedback, feel free to reach out:
 
 ---
 
-## Acknowledgments
-
-- Thanks to the open-source community for providing the tools and libraries used in this project.
-- Special thanks to the dataset providers for making the data publicly available.
-
----
-
-This README provides a comprehensive guide to understanding, installing, and using the ML project. It is designed to be beginner-friendly while still providing all the necessary details for advanced users.

@@ -1,5 +1,5 @@
 import logging
-import os
+import os #Used to handle file/folder paths and create directories.
 from datetime import datetime
 
 LOG_FILE=f"{datetime.now().strftime('%m_%d_%Y_%H_%M_%S')}.log"
